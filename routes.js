@@ -6,7 +6,7 @@ FlowRouter.route('/', {
     }
 });
 
-// Home Page
+// Dashboard Page
 FlowRouter.route('/dashboard', {
     name: 'dashboard',
     action() {
