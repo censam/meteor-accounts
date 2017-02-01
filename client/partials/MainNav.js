@@ -3,6 +3,7 @@ Template.MainNav.events({
 		Session.set('nav-toggle' , 'open');
 	},
 	'click .logout':function(){
-		Meteor.logout();
+		// Meteor.logout();
+		AccountsTemplates.logout();
 	}
 });
