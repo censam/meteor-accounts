@@ -1,0 +1,23 @@
+{
+  "name": "meteor-accounts",
+  "version": "1.0.0",
+  "description": "Account description and enhancements",
+  "main": "routes.js",
+  "dependencies": {
+    "moment": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/censam/meteor-accounts.git"
+  },
+  "author": "sampath <wgsampath@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/censam/meteor-accounts/issues"
+  },
+  "homepage": "https://github.com/censam/meteor-accounts#readme"
+}
